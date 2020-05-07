@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<a href="page1.html">Page 2</a>
-
 
 <link rel="icon" href="favi2.png" type="image/x-icon">
 	<meta charset="utf-8">
+	
+	
+<a href="index.html">Page 2</a>
 <head>
 <body style="background-color:#FFFFFF;color:#89cff0;">
 <!-- Project 2: h1 with the title of the page -->
